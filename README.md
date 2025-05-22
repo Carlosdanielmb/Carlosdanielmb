@@ -5,6 +5,9 @@ Sou movido pela paixão por tecnologia e programação, sempre explorando novos 
 Como já disse Steve Jobs:  
 “A tecnologia move o mundo.”
 
+
+
+
 ## 🚀 Sobre mim
 
 - 💻 Desenvolvedor entusiasta de novas tecnologias
@@ -12,6 +15,7 @@ Como já disse Steve Jobs:
 - 🔭 Trabalhando em: Projetos pessoais e aplicando os conhecimentos que estou adquirindo
 - ⚡ Curiosidades:Sou Técnico em informática e estou no 2° Semestre da Graduação "Engenharia de Software" no Centro Universitário IESB
 
+  
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -28,6 +32,13 @@ Como já disse Steve Jobs:
 ## 📈 GitHub Stats
 
 ![Carlosdanielmb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlosdanielmb&show_icons=true&theme=radical)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Carlosdanielmb/Carlosdanielmb/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Carlosdanielmb/Carlosdanielmb/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Carlosdanielmb/Carlosdanielmb/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 ## 📫 Contatos
 <div>
