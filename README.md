@@ -29,8 +29,6 @@ Como já disse Steve Jobs:
 
 ![Carlosdanielmb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlosdanielmb&show_icons=true&theme=radical)
 
-![Snake animation](https://github.com/Carlosdanielmb/Carlosdanielmb/blob/output/github-contribution-grid-snake.svg)
-
 ## 📫 Contatos
 <div>
 <a href="https://instagram.com/dev_carlosdan" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
