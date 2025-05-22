@@ -1,16 +1,43 @@
-## Hi there 👋
+## Olá, Devs! 👋
 
-<!--
-**Carlosdanielmb/Carlosdanielmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo(a) ao meu perfil do GitHub!  
+Sou movido pela paixão por tecnologia e programação, sempre explorando novos desafios e buscando evoluir constantemente.  
+Como já disse Steve Jobs:  
+“A tecnologia move o mundo.”
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Desenvolvedor entusiasta de novas tecnologias
+- 🌱 Atualmente estou aprendendo: Python orientado a objetos
+- 🔭 Trabalhando em: Projetos pessoais e aplicando os conhecimentos que estou adquirindo
+- ⚡ Curiosidades:Sou Técnico em informática e estou no 2° Semestre da Graduação "Engenharia de Software" no Centro Universitário IESB
+
+
+## 🛠️ Tecnologias & Ferramentas
+
+**Front-end:**  
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+
+**Back-end & Ferramentas:**  
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+## 📈 GitHub Stats
+
+![Carlosdanielmb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlosdanielmb&show_icons=true&theme=radical)
+
+![Snake animation](https://github.com/Carlosdanielmb/Carlosdanielmb/blob/output/github-contribution-grid-snake.svg)
+
+## 📫 Contatos
+<div>
+<a href="https://instagram.com/dev_carlosdan" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "marquescarlosdaniel78@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/carlosdanielmb" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+---
+
+Sinta-se à vontade para explorar meus repositórios e conectar-se comigo!
