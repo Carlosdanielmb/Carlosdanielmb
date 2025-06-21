@@ -13,7 +13,7 @@ Como já disse Steve Jobs:
 - 💻 Desenvolvedor entusiasta de novas tecnologias
 - 🌱 Atualmente estou aprendendo: Python orientado a objetos
 - 🔭 Trabalhando em: Projetos pessoais e aplicando os conhecimentos que estou adquirindo
-- ⚡ Curiosidades:Sou Técnico em informática e estou no 2° Semestre da Graduação "Engenharia de Software" no Centro Universitário IESB
+- ⚡ Curiosidades:Sou Técnico em informática e estou no 3° Semestre da Graduação "Engenharia de Software" no Centro Universitário IESB
 
   
 
