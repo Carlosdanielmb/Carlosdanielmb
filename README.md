@@ -6,8 +6,6 @@ Como já disse Steve Jobs:
 “A tecnologia move o mundo.”
 
 
-
-
 ## 🚀 Sobre mim
 
 - 💻 Desenvolvedor entusiasta de novas tecnologias
